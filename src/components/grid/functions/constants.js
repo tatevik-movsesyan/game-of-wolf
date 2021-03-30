@@ -1,0 +1,16 @@
+export const BOX = 50;
+export const TO_LEFT = 37;
+export const TO_UP = 38;
+export const TO_RIGHT = 39;
+export const TO_DOWN = 40;
+export const FREE_CELL = 0;
+export const FENSE_ID = 1;
+export const WOLF_ID = 2;
+export const HOUSE_ID = 3;
+export const RABBIT_ID = 4;
+export const WOLF_KILLER_ID = 5;
+export const AT_HOUSE_ID = 6;
+export const X = 0;
+export const Y = 1;
+export const OCCUPIED_CELL = null;
+export const BORDER_TRANSFER = "border-transfer";
